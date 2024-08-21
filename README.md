@@ -1,16 +1,23 @@
-# shophimikat
+<p align="center"><img src="https://i.ibb.co/j5rVmJH/Frame-3-1.png" border="0"></p>
 
-A new Flutter project.
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-v3.22.0-blue?logo=flutter">
+  <img src="https://img.shields.io/badge/Version-1.0-purple">
+</p>
 
-## Getting Started
+## About 
+Интернет-магазин, созданный на заказ на бирже фриланса. Он предназначен для использования как в веб-приложении мессенджера «Telegram», так и в обычном браузере. 
 
-This project is a starting point for a Flutter application.
+## Screenshots
+<p align="center">
+<img src="https://i.ibb.co/9nMCmS7/Group-15.png" alt="Group-15" border="0">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
++ [Flutter](https://flutter.dev/) - Framework
++ [Dart](https://dart.dev/) - Language
++ [Google Fonts](https://fonts.google.com/) - Fonts
++ [Telegram WebApp](https://core.telegram.org/bots/webapps) - Library
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Developers
++ [ITRacoon (Nikita Kuzmitch)](https://github.com/ITRACCON)
